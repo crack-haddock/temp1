@@ -1,0 +1,22 @@
+C:\Users\richa\My Documents\source\dotnetcmdline1\myApp\bin\Debug\netcoreapp2.1\myApp.deps.json
+C:\Users\richa\My Documents\source\dotnetcmdline1\myApp\bin\Debug\netcoreapp2.1\myApp.runtimeconfig.json
+C:\Users\richa\My Documents\source\dotnetcmdline1\myApp\bin\Debug\netcoreapp2.1\myApp.runtimeconfig.dev.json
+C:\Users\richa\My Documents\source\dotnetcmdline1\myApp\bin\Debug\netcoreapp2.1\myApp.dll
+C:\Users\richa\My Documents\source\dotnetcmdline1\myApp\bin\Debug\netcoreapp2.1\myApp.pdb
+C:\Users\richa\My Documents\source\dotnetcmdline1\myApp\obj\Debug\netcoreapp2.1\myApp.csprojAssemblyReference.cache
+C:\Users\richa\My Documents\source\dotnetcmdline1\myApp\obj\Debug\netcoreapp2.1\myApp.csproj.CoreCompileInputs.cache
+C:\Users\richa\My Documents\source\dotnetcmdline1\myApp\obj\Debug\netcoreapp2.1\myApp.AssemblyInfoInputs.cache
+C:\Users\richa\My Documents\source\dotnetcmdline1\myApp\obj\Debug\netcoreapp2.1\myApp.AssemblyInfo.cs
+C:\Users\richa\My Documents\source\dotnetcmdline1\myApp\obj\Debug\netcoreapp2.1\myApp.dll
+C:\Users\richa\My Documents\source\dotnetcmdline1\myApp\obj\Debug\netcoreapp2.1\myApp.pdb
+C:\Users\richa\Documents\source\dotnetcmdline1\myApp\bin\Debug\netcoreapp2.1\myApp.deps.json
+C:\Users\richa\Documents\source\dotnetcmdline1\myApp\bin\Debug\netcoreapp2.1\myApp.runtimeconfig.json
+C:\Users\richa\Documents\source\dotnetcmdline1\myApp\bin\Debug\netcoreapp2.1\myApp.runtimeconfig.dev.json
+C:\Users\richa\Documents\source\dotnetcmdline1\myApp\bin\Debug\netcoreapp2.1\myApp.dll
+C:\Users\richa\Documents\source\dotnetcmdline1\myApp\bin\Debug\netcoreapp2.1\myApp.pdb
+C:\Users\richa\Documents\source\dotnetcmdline1\myApp\obj\Debug\netcoreapp2.1\myApp.csprojAssemblyReference.cache
+C:\Users\richa\Documents\source\dotnetcmdline1\myApp\obj\Debug\netcoreapp2.1\myApp.csproj.CoreCompileInputs.cache
+C:\Users\richa\Documents\source\dotnetcmdline1\myApp\obj\Debug\netcoreapp2.1\myApp.AssemblyInfoInputs.cache
+C:\Users\richa\Documents\source\dotnetcmdline1\myApp\obj\Debug\netcoreapp2.1\myApp.AssemblyInfo.cs
+C:\Users\richa\Documents\source\dotnetcmdline1\myApp\obj\Debug\netcoreapp2.1\myApp.dll
+C:\Users\richa\Documents\source\dotnetcmdline1\myApp\obj\Debug\netcoreapp2.1\myApp.pdb
